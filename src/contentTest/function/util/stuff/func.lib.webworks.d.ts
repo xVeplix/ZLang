@@ -1,0 +1,3 @@
+interface VoidFunction {
+    (): void;
+}
