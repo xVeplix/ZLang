@@ -3,10 +3,12 @@ package contentTest;
 public class Main {
 
     public static void main(String[] args) {
-        Console.print("Hello World!");
+        // Die Klasse kann eignentlich gelöscht werden
 
-        Programm.sleep(1000);
+        // IDE Beginn
 
-        Console.print("Dieser Text ist erst nach einer Sekunde erschienen!");
+
+
+        // IDE ENDE
     }
 }
