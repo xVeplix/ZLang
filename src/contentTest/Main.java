@@ -8,5 +8,8 @@ public class Main {
         Programm.sleep(1000);
 
         Console.print("Dieser Text ist erst nach einer Sekunde erschienen!");
+
+
+
     }
 }
